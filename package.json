@@ -1,0 +1,27 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc -w",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daboross/screeps-starter-python.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daboross/screeps-starter-python/issues"
+  },
+  "homepage": "https://github.com/daboross/screeps-starter-python#readme",
+  "devDependencies": {
+    "tslint": "^6.1.3"
+  },
+  "dependencies": {
+    "grunt-screeps": "^1.5.0"
+  }
+}
